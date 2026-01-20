@@ -3,6 +3,8 @@ package com.example.day3sms;
 //service -> logic
 //repository -> database
 //model -> data schema
+//controller (uses) -> sevice(buisness logic is written) -> repository(speak up to database)\
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
